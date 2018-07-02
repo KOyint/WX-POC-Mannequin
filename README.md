@@ -16,7 +16,8 @@ Key Functionality:(checklist?)
 VM interface:
 
 1.  Upload Top & Bottom clothes 
-2.  Display uploaded top & bottom clothes as changable pairs (display one top & one bottom each time with free range selection of uploaded Top&Bottom) ->categorized base on seasons? build in sort function to list certain clothes based on name.
+2.  Display uploaded top & bottom clothes as changable pairs (display one top & one bottom each time with free range selection of uploaded Top&Bottom) ->categorized base on seasons? build in sort function to list certain clothes based on name－
+  －2.1 re-ajust uploaded img size to fix display box.
 3.  Save selected Top&Bottom combination as MDC
 4.  Bind one Top with multiple bottoms and saved as Freestyle MDC（FMDC) . (True for one bottom binding with multiple top)
 5.  Save MDC&FMDC as a season to be distributed out. 
